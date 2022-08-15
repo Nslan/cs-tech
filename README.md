@@ -104,3 +104,7 @@ board1.txt		Siyah:135	Beyaz:134.5
 board2.txt		Siyah:116	Beyaz:123
 
 board3.txt		Siyah:108	Beyaz:109
+
+#### UML
+
+![](uml.png)
